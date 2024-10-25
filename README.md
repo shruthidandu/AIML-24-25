@@ -1,2 +1,1 @@
-AIML LAB 1 =grid_predictions = grid.predict(X_test)
-print(confusion_matrix(y_test,grid_predictions))
+#[AIML 0.1] (https://github.com/shruthidandu/AIML-24-25/blob/main/LAB%2001)\
