@@ -6,4 +6,4 @@
 6. #[AIML 0.6] (https://github.com/shruthidandu/AIML-24-25/blob/main/lab6.ipynb)\
 7. #[AIML 0.7] (https://github.com/shruthidandu/AIML-24-25/blob/main/lab_07.ipynb)\
 8. #[AIML 0.8]  (https://github.com/shruthidandu/AIML-24-25/blob/main/lab_8.ipynb)
-10 .#[AIML 0.10] (https://github.com/shruthidandu/AIML-24-25/bolb/main/lab_10.ipynb) 
+10. #[AIML 0.10] (https://github.com/shruthidandu/AIML-24-25/bolb/main/lab_10.ipynb) 
